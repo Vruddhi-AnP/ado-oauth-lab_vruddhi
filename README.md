@@ -90,6 +90,6 @@ http://localhost:3000
 - tokens.db → SQLite database
 - docs/ → documentation files
 
----
 
-This project is made for learning and task submission purposes.
+
+
